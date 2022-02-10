@@ -1,0 +1,47 @@
+
+html{
+    height: 100%;
+}
+body {
+    background: #e64646;
+  }
+  .text-color {
+    color: #000000;
+  }
+  .card {
+    width: 350px;
+    padding: 10px;
+    border-radius: 20px;
+    background: #d4efdf;
+    border: none;
+    position: relative;
+  }
+  .container {
+    height: 100vh;
+  }
+  .mobile-text {
+    color: #e93434;
+    font-size: 15px;
+  }
+  .form-control {
+    margin-right: 12px;
+  }
+  .form-control:focus {
+    color: #495057;
+    background-color: #d4efdf;
+    border-color: #c0392b;
+    outline: 0;
+    box-shadow: none;
+  }
+  .cursor {
+    cursor: pointer;
+  }
+
+  .validate {
+    border-radius: 20px;
+    height: 40px;
+    background-color: rgb(235, 42, 42);
+    border: 1px solid rgb(236, 42, 42);
+    width: 140px
+}
+  
